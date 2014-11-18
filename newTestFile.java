@@ -7,5 +7,6 @@ class newTestJavaFile {
 	System.out.println ("Hello World");
 	System.out.println("now changing the file");
 	System.out.println("the second change in the file");
+	System.out.println("The third change");;
     }
 } 
