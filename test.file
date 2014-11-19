@@ -1,2 +1,6 @@
 #This is a new test file for working with Git
+<<<<<<< HEAD
 Changing the file from the website
+=======
+I added this line in the testing branch
+>>>>>>> testing
